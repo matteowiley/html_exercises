@@ -83,7 +83,6 @@ nav li{
 	
 }
 aside {
-	/*position: absolute;*/
 	float: left;	
 	width: 25%;
 	overflow-y: hidden;
@@ -115,10 +114,9 @@ img {
 	padding: 35px 0 35px 0;
 	border-radius: 120px;
 }
-img:hover {
-	border-radius: 150px;
-	width: 400px;
-	height: auto;
+.blog_post_title:hover {
+	font-size: 2em;
+	text-align: center;
 }
 .Date {
 	text-align: center;
