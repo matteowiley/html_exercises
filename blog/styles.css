@@ -115,9 +115,8 @@ img {
 	border-radius: 120px;
 }
 .blog_post_title:hover {
-	border-radius: 150px;
-	width: 400px;
-	height: auto;
+	font-size: 2em;
+	text-align: center;
 }
 .Date {
 	text-align: center;
